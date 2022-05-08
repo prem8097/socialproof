@@ -28,7 +28,7 @@ body
 }
 
 
-@media(max-width:1440px)
+@media(min-width:500px)and(max-width:1440px)
 {
     .ball
 {
