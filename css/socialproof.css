@@ -124,9 +124,10 @@ body
         padding-left:60px;
         
     }
+    
 
 }
-@media only screen and (max-device-width:500px) 
+@media only screen and (max-device-width:700px) 
 {
     .ball
 {
