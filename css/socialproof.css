@@ -28,7 +28,7 @@ body
 }
 
 
-@media(min-width:500px)and(max-width:1440px)
+@media(max-width:1440px)
 {
     .ball
 {
@@ -126,7 +126,7 @@ body
     }
 
 }
-@media only screen and (max-device-width:480px)
+@media(max-width:500px) 
 {
     .ball
 {
